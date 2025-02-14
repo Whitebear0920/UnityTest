@@ -1,0 +1,16 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "name": "武器店老闆",
+            "nickname": "小武",
+            "age": 16
+        },
+        {
+            "id": 2,
+            "name": "HI",
+            "nickname": "小",
+            "age": 16
+        }
+    ]
+}
