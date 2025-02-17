@@ -2,38 +2,25 @@
     "customer": [
         {
             "id": 1,
+            "isUnlocked": false,
             "name": "TestCustomer",
-            "faction": "good",
+            "faction": "underground",
             "race": "human",
             "favorability": 10,
-            "favorability50": [
-                {
-                    "age": 16,
-                    "height": 160,
-                    "weight": 60,
-                    "birthday": 20040426,
-                    "isFavorability500Unlocked": false
-                }
-            ],
-            "favorability70": [
-                {
-                    "preferDrink": "milkTea",
-                    "preferIngredient": "milk",
-                    "isFavorability70Unlocked": false
-                }
-            ],
+            "age": 16,
+            "height": 160,
+            "weight": 60,
+            "birthday": "20040426",
+            "preferDrink": "milkTea",
+            "preferIngredient": "milk",
+            "hobby": "beard trim",
+            "job": "gangster",
             "character": [
-                {
-                    "character": "nice",
-                    "isCharacterUnlocked": false
-                }
+                "character description 1",
+                "character description 2"
             ],
-            "story": [
-                {
-                    "story": "story",
-                    "isStoryUnlocked": false
-                }
-            ]
+            "story": "story...",
+            "isStoryUnlocked": false
         }
     ]
 }
