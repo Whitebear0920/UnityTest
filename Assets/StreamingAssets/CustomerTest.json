@@ -1,0 +1,39 @@
+{
+    "customer": [
+        {
+            "id": 1,
+            "name": "TestCustomer",
+            "faction": "good",
+            "race": "human",
+            "favorability": 10,
+            "favorability50": [
+                {
+                    "age": 16,
+                    "height": 160,
+                    "weight": 60,
+                    "birthday": 20040426,
+                    "isFavorability500Unlocked": false
+                }
+            ],
+            "favorability70": [
+                {
+                    "preferDrink": "milkTea",
+                    "preferIngredient": "milk",
+                    "isFavorability70Unlocked": false
+                }
+            ],
+            "character": [
+                {
+                    "character": "nice",
+                    "isCharacterUnlocked": false
+                }
+            ],
+            "story": [
+                {
+                    "story": "story",
+                    "isStoryUnlocked": false
+                }
+            ]
+        }
+    ]
+}
